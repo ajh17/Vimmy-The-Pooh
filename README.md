@@ -18,8 +18,15 @@ Vimmy-The-Pooh
 
 .
 
-    "A day without Vim is like finishing a really good book."
-        - Vimmy the Pooh
+    "When you first wake up in the morning, Pooh," said Piglet, "what's the
+    first thing you say to yourself?"
+
+    "What new Vim tip am I going to learn today" said Vimmy the Pooh. "What do
+    you say, Piglet?"
+
+    "I say, I wonder what's going to happen exciting today?" said Piglet.
+
+    Vimmy the Pooh nodded thoughtfully. "It's the same thing," he said.
 
 .
 
