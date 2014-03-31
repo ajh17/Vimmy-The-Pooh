@@ -13,9 +13,18 @@ Vimmy-The-Pooh
 
 .
 
-    "If you want to make a file more Vimmy, add a modeline"
+    "Reading :help, asking #vim, makes all the difference."
         - Vimmy the Pooh
 
+.
+
+    "I wonder what #vim is doing," thought Vimmy the Pooh,
+    "I wish I were there to be doing it, too."
+
+.
+
+    "If you want to make a file more Vimmy, add a few tiddely :wq"
+        - Vimmy the Pooh
 .
 
     "When you first wake up in the morning, Pooh," said Piglet, "what's the
