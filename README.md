@@ -1,7 +1,7 @@
 Vimmy-The-Pooh
 ==============
 
-    Piglet: "Oh Pooh, we will be friends forever, won't we?"
+    Piglet: "Oh Pooh, We will live inside Vim forever, won't we?"
 
     Vimmy the Pooh: "Even longer"
 
